@@ -14,9 +14,9 @@ public class TitaniumModOreGen {
 
     public static void generateOre() {
         for(Biome biome : ForgeRegistries.BIOMES) {
-            ConfiguredPlacement customConfig = Placement.COUNT_RANGE.configure(new CountRangeConfig(5, 0, 0, 20));
+            ConfiguredPlacement customConfig = Placement.COUNT_RANGE.configure(new CountRangeConfig(10, 0, 0, 20));
             biome.addFeature(GenerationStage.Decoration.UNDERGROUND_ORES, Feature.ORE
-                    .withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.titanium_ore.getDefaultState(), 2))
+                    .withConfiguration(new OreFeatureConfig(OreFeatureConfig.FillerBlockType.NATURAL_STONE, BlockInit.titanium_ore.getDefaultState(), 5))
                     .withPlacement(customConfig));
         }
     }
