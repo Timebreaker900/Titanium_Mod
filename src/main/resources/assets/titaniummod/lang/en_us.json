@@ -1,0 +1,18 @@
+{
+  "item.titaniummod.titanium_ingot": "Titanium Ingot",
+  "item.titaniummod.titanium_sword": "Titanium Sword",
+  "item.titaniummod.titanium_pickaxe": "Titanium Pickaxe",
+  "item.titaniummod.titanium_shovel": "Titanium Shovel",
+  "item.titaniummod.titanium_axe": "Titanium Axe",
+  "item.titaniummod.titanium_hoe": "Titanium Hoe",
+
+  "item.titaniummod.titanium_helmet": "Titanium Helmet",
+  "item.titaniummod.titanium_chestplate": "Titanium Chestplate",
+  "item.titaniummod.titanium_leggings": "Titanium Leggings",
+  "item.titaniummod.titanium_boots": "Titanium Boots",
+
+  "block.titaniummod.titanium_ore": "Titanium Ore",
+  "block.titaniummod.titanium_block": "Titanium Block",
+
+  "itemGroup.titaniummodtab": "Titanium Mod Tab"
+}
