@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "P": {
+      "item": "titaniummod:titanium_ingot"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "titaniummod:titanium_shovel"
+  }
+
+}

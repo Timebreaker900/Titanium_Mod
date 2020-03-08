@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P P",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "titaniummod:titanium_ingot"
+    }
+  },
+  "result": {
+    "item": "titaniummod:titanium_chestplate"
+  }
+
+}
